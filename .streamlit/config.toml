@@ -1,0 +1,28 @@
+# Same theme as my portfolio (read automatically by streamlit, next to app.py)
+[theme]
+base = "light"
+primaryColor = "#1f5fbf"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f6fb"
+textColor = "#1c2333"
+linkColor = "#1f5fbf"
+borderColor = "#e1e6ef"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+# Fonts from Google Fonts : Inter for the text, Space Grotesk for the titles
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+headingFont = "Space Grotesk:https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"
+# Same palette as the charts : TER = blue, TGV = orange
+chartCategoricalColors = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4"]
+
+# Dark navy sidebar
+[theme.sidebar]
+backgroundColor = "#0f1e3d"
+secondaryBackgroundColor = "#1b2d52"
+textColor = "#e8edf7"
+primaryColor = "#7fb0ff"
+linkColor = "#9cc2ff"
+borderColor = "#2a3d63"
+
+[server]
+headless = true
