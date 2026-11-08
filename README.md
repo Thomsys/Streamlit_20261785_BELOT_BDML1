@@ -7,6 +7,7 @@
 | **Étudiant** | Thomas BELOT — [thomas.belot@efrei.net](mailto:thomas.belot@efrei.net) — [LinkedIn](https://www.linkedin.com/in/thomas-belot/) |
 | **Formation** | 2ème année ingénieur - apprentissage - Big Data & Machine Learning |
 | **Groupe(s)** | I2-APP-BDML1 |
+| **Vidéo de démonstration** | [`Video_20261785_BELOT_BDML1.mp4`](Video_20261785_BELOT_BDML1.mp4) |
 | **Code source** | https://github.com/Thomsys/Streamlit_20261785_BELOT_BDML1 |
 | **Professeur** | Mano Joseph MATHEW — [mano.mathew@efrei.fr](mailto:mano.mathew@efrei.fr) |
 | **École** | Efrei — Paris Panthéon-Assas Université |
@@ -69,6 +70,7 @@ Streamlit_20261785_BELOT_BDML1/
 ├── app.py                      # point d'entrée : logo, auteur, navigation, filtres globaux
 ├── requirements.txt
 ├── README.md
+├── Video_20261785_BELOT_BDML1.mp4   # vidéo de démonstration
 ├── .streamlit/config.toml      # thème (couleurs, polices, barre latérale)
 ├── data/
 │   ├── regularite-mensuelle-ter.csv
